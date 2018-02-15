@@ -1,0 +1,12 @@
+Version 0.3.2
+-Added some more Thorium weapons
+-----------------------------------------------------------------------
+Version 0.3
+-Thorium Compatibility, 15 weapons from Thorium are added back in
+the mod
+-----------------------------------------------------------------------
+Version 0.2
+-Readded back the Wasp Gun that was forgotten by mistake
+-----------------------------------------------------------------------
+Version 0.1
+-Updated Mod from version 0.9 of Tmodloader, separated from NeoNGhost

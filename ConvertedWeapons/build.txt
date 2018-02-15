@@ -1,0 +1,4 @@
+author = ASGNeoN
+version = 0.3.2
+displayName = Converted Weapons
+homepage = https://forums.terraria.org/index.php?threads/neons-mods.60175/
