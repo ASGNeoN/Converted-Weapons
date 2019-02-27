@@ -13,12 +13,12 @@ namespace ConvertedWeapons.Items.Weapons
         }
         public override void SetDefaults()
         {
-            item.CloneDefaults(ItemID.BeeGun);
+            item.CloneDefaults(ItemID.WaspGun);
             item.magic = false;
             item.summon = true;
             item.autoReuse = true;
             item.crit = 0;
-            item.knocback = 0;
+            item.knockBack = 0;
 
         }
 

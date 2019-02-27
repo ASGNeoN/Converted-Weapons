@@ -1,3 +1,6 @@
+Version 0.3.3
+-Fixed Summoner Wasp Gun dealing the same damage as the Bee Gun
+-----------------------------------------------------------------------
 Version 0.3.2
 -Added some more Thorium weapons
 -----------------------------------------------------------------------
